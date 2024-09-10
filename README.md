@@ -1,9 +1,13 @@
-### Welcome to my GitHub! 
+## Welcome to my GitHub! 
 📖 Studying JavaScript
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamilly-da-rosa-77964930a/)
 
-
+## Future Projects:
+- Weather app;
+- Commerce app;
+- Name Registration office app.
+  
 ###### Details
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k9milly&show_icons=true&theme=dracula)
