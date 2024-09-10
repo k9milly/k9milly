@@ -6,9 +6,9 @@
 
 [![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=k9milly&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
-**### Projetos
+### Projetos
 
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=k9milly&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)**
+[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=k9milly&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
 ### Linguagens utilizadas
 
